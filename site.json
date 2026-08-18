@@ -1,0 +1,11 @@
+{
+  "title": "SlugPath",
+  "description": "An academic planning dashboard that tracks degree progress, schedules courses, and offers personalized backup plans to help students graduate on time.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
